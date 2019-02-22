@@ -11,7 +11,7 @@ Using the command line, perform searches using the following format:
 `node liri.js search-type search-parameter`
 
 
-Search types are as following:
+Search types are as following-
 
     song: spotify-this-song
 
