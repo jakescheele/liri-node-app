@@ -16,7 +16,7 @@ Search types are as following:
     song: spotify-this-song
 
     EX: 
-    ![spotify-this-song](https://github.com/jakescheele/liri-node-app/blob/master/images/spotify-this-song.gif "Spotify This Song")
+    ![](https://github.com/jakescheele/liri-node-app/blob/master/images/spotify-this-song.gif )
 
     concert: concert-this
 
