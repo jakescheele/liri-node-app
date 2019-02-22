@@ -11,12 +11,13 @@ Using the command line, perform searches using the following format:
 `node liri.js search-type search-parameter`
 
 
+
 Search types are listed below.
 
     Song Search by Song Title: spotify-this-song
 
     EX: 
-    ![](https://raw.githubusercontent.com/jakescheele/liri-node-app/master/images/spotify-this-song.gif)
+![](./images/spotify-this-song.gif)
 
 
     Concert Search by Artist: concert-this
