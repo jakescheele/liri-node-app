@@ -14,22 +14,15 @@ Using the command line, perform searches using the following format:
 
 Search types are listed below.
 
-    Song Search by Song Title: spotify-this-song
-
-    EX: 
+    Song Search by Song Title: spotify-this-song 
 ![](./images/spotify-this-song.gif)
 
 
     Concert Search by Artist: concert-this
-
-    EX: 
-
+![](./images/concert-this.gif)
 
     Movie Seach by Title: movie-this
-
-    EX: 
-
+![](./images/movie-this.gif)
 
     Enter do-what-it-says as a search type to search the contents of the random.txt file. File must contain search type and search parameters.
-
-    EX: 
+![](./images/do-what-it-says.gif)
