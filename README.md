@@ -11,20 +11,23 @@ Using the command line, perform searches using the following format:
 `node liri.js search-type search-parameter`
 
 
-Search types are as following-
+Search types are listed below.
 
-    song: spotify-this-song
-
-    EX: 
-    ![](https://github.com/jakescheele/liri-node-app/blob/master/images/spotify-this-song.gif )
-
-    concert: concert-this
+    Song Search by Song Title: spotify-this-song
 
     EX: 
+    ![](https://raw.githubusercontent.com/jakescheele/liri-node-app/master/images/spotify-this-song.gif)
 
-    movie: movie-this
+
+    Concert Search by Artist: concert-this
 
     EX: 
+
+
+    Movie Seach by Title: movie-this
+
+    EX: 
+
 
     Enter do-what-it-says as a search type to search the contents of the random.txt file. File must contain search type and search parameters.
 
